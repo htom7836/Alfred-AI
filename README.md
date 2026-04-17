@@ -5,7 +5,7 @@ A minimal AI web chat application built with Node.js and Groq API.
 ## Technologies Used
 - Node.js
 - Express.js
-- Groq API (llama-3.3-70b-versatile model)
+- Groq API 
 - HTML/CSS/JavaScript
 
 ## How to Install
